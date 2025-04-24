@@ -9,8 +9,7 @@ def get_news(year, month, day):
     """
     try:
         # Initialize the NYTAPI object
-        # nyt = NYTAPI("FMWU5sNkUErTLUf8zjHM2hWr9MkWbmlT", parse_dates=True)
-        nyt = NYTAPI("zWyggCXFeOgLZgZj5evSUfxj8eYWb6mE", parse_dates=True)
+        nyt = NYTAPI("Your Api key", parse_dates=True)
         list = []
         
         print(f"Fetching news for {year}-{month}-{day}...")
