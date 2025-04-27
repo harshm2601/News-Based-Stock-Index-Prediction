@@ -157,7 +157,7 @@ If you use this project in your research or work, please consider citing:
 
 ```
 @software{FinBERT_LSTM,
-  author = {Your Name},
+  author = {Harsh Maheshwari , Harsh Bhanushali},
   title = {FinBERT-LSTM: Stock Market Prediction Using Financial News Sentiment},
   year = {2025},
   url = {https://github.com/yourusername/FinBERT-LSTM}
