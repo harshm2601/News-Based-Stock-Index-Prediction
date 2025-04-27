@@ -1,8 +1,5 @@
 # News-Based-Stock-Index-Prediction
 
-
-# FinBERT-LSTM Stock Market Prediction
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
